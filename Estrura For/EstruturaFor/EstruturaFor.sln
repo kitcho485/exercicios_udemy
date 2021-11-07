@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaFor", "EstruturaFor\EstruturaFor.csproj", "{90876D1D-E58B-49D1-A0D1-D6651D69FE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContagemRegressiva", "..\..\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\ContagemRegressiva.csproj", "{D2F326F4-A0D7-4B5B-9729-553177947BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90876D1D-E58B-49D1-A0D1-D6651D69FE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90876D1D-E58B-49D1-A0D1-D6651D69FE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90876D1D-E58B-49D1-A0D1-D6651D69FE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90876D1D-E58B-49D1-A0D1-D6651D69FE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F326F4-A0D7-4B5B-9729-553177947BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F326F4-A0D7-4B5B-9729-553177947BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F326F4-A0D7-4B5B-9729-553177947BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F326F4-A0D7-4B5B-9729-553177947BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC65FDA-DAB2-4D48-8897-A358B63A9B04}
+	EndGlobalSection
+EndGlobal

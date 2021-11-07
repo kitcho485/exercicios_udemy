@@ -1,0 +1,16 @@
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\bin\Debug\net5.0\ContagemRegressiva.exe
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\bin\Debug\net5.0\ContagemRegressiva.deps.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\bin\Debug\net5.0\ContagemRegressiva.runtimeconfig.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\bin\Debug\net5.0\ContagemRegressiva.runtimeconfig.dev.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\bin\Debug\net5.0\ContagemRegressiva.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\bin\Debug\net5.0\ref\ContagemRegressiva.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\bin\Debug\net5.0\ContagemRegressiva.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\obj\Debug\net5.0\ContagemRegressiva.csproj.AssemblyReference.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\obj\Debug\net5.0\ContagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\obj\Debug\net5.0\ContagemRegressiva.AssemblyInfoInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\obj\Debug\net5.0\ContagemRegressiva.AssemblyInfo.cs
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\obj\Debug\net5.0\ContagemRegressiva.csproj.CoreCompileInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\obj\Debug\net5.0\ContagemRegressiva.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\obj\Debug\net5.0\ref\ContagemRegressiva.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\obj\Debug\net5.0\ContagemRegressiva.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\Contagem Regressiva(Estrutura FOR)\ContagemRegressiva\obj\Debug\net5.0\ContagemRegressiva.genruntimeconfig.cache
