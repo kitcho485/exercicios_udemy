@@ -1,0 +1,14 @@
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.exe
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.deps.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.csproj.AssemblyReference.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1009 Salario com bonus\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.genruntimeconfig.cache
