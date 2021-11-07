@@ -1,0 +1,14 @@
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.csproj.AssemblyReference.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.exe
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.deps.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1003 Soma Simples\SomaSimples\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.genruntimeconfig.cache

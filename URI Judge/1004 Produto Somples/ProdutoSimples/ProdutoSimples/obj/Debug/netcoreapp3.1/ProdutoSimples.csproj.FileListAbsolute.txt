@@ -1,0 +1,13 @@
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.exe
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.deps.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1004 Produto Somples\ProdutoSimples\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.genruntimeconfig.cache

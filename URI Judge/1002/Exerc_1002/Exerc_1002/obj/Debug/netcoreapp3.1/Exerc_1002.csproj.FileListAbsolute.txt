@@ -1,0 +1,14 @@
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\bin\Debug\netcoreapp3.1\Exerc_1002.exe
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\bin\Debug\netcoreapp3.1\Exerc_1002.deps.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\bin\Debug\netcoreapp3.1\Exerc_1002.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\bin\Debug\netcoreapp3.1\Exerc_1002.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\bin\Debug\netcoreapp3.1\Exerc_1002.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\bin\Debug\netcoreapp3.1\Exerc_1002.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\obj\Debug\netcoreapp3.1\Exerc_1002.csproj.AssemblyReference.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\obj\Debug\netcoreapp3.1\Exerc_1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\obj\Debug\netcoreapp3.1\Exerc_1002.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\obj\Debug\netcoreapp3.1\Exerc_1002.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\obj\Debug\netcoreapp3.1\Exerc_1002.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\obj\Debug\netcoreapp3.1\Exerc_1002.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\obj\Debug\netcoreapp3.1\Exerc_1002.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1002\Exerc_1002\Exerc_1002\obj\Debug\netcoreapp3.1\Exerc_1002.genruntimeconfig.cache
