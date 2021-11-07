@@ -1,0 +1,14 @@
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\obj\Debug\netcoreapp3.1\Uri_Extremamente_basico.csproj.AssemblyReference.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\obj\Debug\netcoreapp3.1\Uri_Extremamente_basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\obj\Debug\netcoreapp3.1\Uri_Extremamente_basico.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\obj\Debug\netcoreapp3.1\Uri_Extremamente_basico.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\obj\Debug\netcoreapp3.1\Uri_Extremamente_basico.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\bin\Debug\netcoreapp3.1\Uri_Extremamente_basico.exe
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\bin\Debug\netcoreapp3.1\Uri_Extremamente_basico.deps.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\bin\Debug\netcoreapp3.1\Uri_Extremamente_basico.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\bin\Debug\netcoreapp3.1\Uri_Extremamente_basico.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\bin\Debug\netcoreapp3.1\Uri_Extremamente_basico.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\bin\Debug\netcoreapp3.1\Uri_Extremamente_basico.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\obj\Debug\netcoreapp3.1\Uri_Extremamente_basico.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\obj\Debug\netcoreapp3.1\Uri_Extremamente_basico.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\Uri_Extremamente_basico\Uri_Extremamente_basico\obj\Debug\netcoreapp3.1\Uri_Extremamente_basico.genruntimeconfig.cache

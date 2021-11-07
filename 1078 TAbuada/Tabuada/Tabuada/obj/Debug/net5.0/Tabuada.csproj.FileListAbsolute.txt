@@ -1,0 +1,32 @@
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.exe
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.deps.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.dev.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\ref\Tabuada.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.csproj.AssemblyReference.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfoInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfo.cs
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.csproj.CoreCompileInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\ref\Tabuada.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.genruntimeconfig.cache
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.exe
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.deps.json
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.json
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.dev.json
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.dll
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\ref\Tabuada.dll
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\bin\Debug\net5.0\Tabuada.pdb
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.csproj.AssemblyReference.cache
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfoInputs.cache
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfo.cs
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.csproj.CoreCompileInputs.cache
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.dll
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\ref\Tabuada.dll
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.pdb
+E:\Developer\Cursos Udemy\Exercicios\URI Judge\1078 TAbuada\Tabuada\Tabuada\obj\Debug\net5.0\Tabuada.genruntimeconfig.cache
