@@ -1,0 +1,15 @@
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net5.0\GastoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net5.0\GastoDeCombustivel.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net5.0\GastoDeCombustivel.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net5.0\GastoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net5.0\GastoDeCombustivel.exe
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net5.0\GastoDeCombustivel.deps.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net5.0\GastoDeCombustivel.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net5.0\GastoDeCombustivel.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net5.0\GastoDeCombustivel.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net5.0\ref\GastoDeCombustivel.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net5.0\GastoDeCombustivel.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net5.0\GastoDeCombustivel.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net5.0\ref\GastoDeCombustivel.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net5.0\GastoDeCombustivel.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1017 Gasto de combustivel\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net5.0\GastoDeCombustivel.genruntimeconfig.cache
