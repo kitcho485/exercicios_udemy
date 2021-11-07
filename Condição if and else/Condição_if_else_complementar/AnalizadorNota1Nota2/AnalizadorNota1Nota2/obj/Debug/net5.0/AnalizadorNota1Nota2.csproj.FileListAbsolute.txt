@@ -1,0 +1,15 @@
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\bin\Debug\net5.0\AnalizadorNota1Nota2.exe
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\bin\Debug\net5.0\AnalizadorNota1Nota2.deps.json
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\bin\Debug\net5.0\AnalizadorNota1Nota2.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\bin\Debug\net5.0\AnalizadorNota1Nota2.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\bin\Debug\net5.0\AnalizadorNota1Nota2.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\bin\Debug\net5.0\ref\AnalizadorNota1Nota2.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\bin\Debug\net5.0\AnalizadorNota1Nota2.pdb
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\obj\Debug\net5.0\AnalizadorNota1Nota2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\obj\Debug\net5.0\AnalizadorNota1Nota2.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\obj\Debug\net5.0\AnalizadorNota1Nota2.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\obj\Debug\net5.0\AnalizadorNota1Nota2.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\obj\Debug\net5.0\AnalizadorNota1Nota2.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\obj\Debug\net5.0\ref\AnalizadorNota1Nota2.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\obj\Debug\net5.0\AnalizadorNota1Nota2.pdb
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condição_if_else_complementar\AnalizadorNota1Nota2\AnalizadorNota1Nota2\obj\Debug\net5.0\AnalizadorNota1Nota2.genruntimeconfig.cache

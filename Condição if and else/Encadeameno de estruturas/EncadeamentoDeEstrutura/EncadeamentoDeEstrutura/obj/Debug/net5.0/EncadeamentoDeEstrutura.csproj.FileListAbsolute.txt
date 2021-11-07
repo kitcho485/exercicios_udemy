@@ -1,0 +1,16 @@
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\obj\Debug\net5.0\EncadeamentoDeEstrutura.csproj.AssemblyReference.cache
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\obj\Debug\net5.0\EncadeamentoDeEstrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\obj\Debug\net5.0\EncadeamentoDeEstrutura.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\obj\Debug\net5.0\EncadeamentoDeEstrutura.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\obj\Debug\net5.0\EncadeamentoDeEstrutura.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\bin\Debug\net5.0\EncadeamentoDeEstrutura.exe
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\bin\Debug\net5.0\EncadeamentoDeEstrutura.deps.json
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\bin\Debug\net5.0\EncadeamentoDeEstrutura.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\bin\Debug\net5.0\EncadeamentoDeEstrutura.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\bin\Debug\net5.0\EncadeamentoDeEstrutura.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\bin\Debug\net5.0\ref\EncadeamentoDeEstrutura.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\bin\Debug\net5.0\EncadeamentoDeEstrutura.pdb
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\obj\Debug\net5.0\EncadeamentoDeEstrutura.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\obj\Debug\net5.0\ref\EncadeamentoDeEstrutura.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\obj\Debug\net5.0\EncadeamentoDeEstrutura.pdb
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Encadeameno de estruturas\EncadeamentoDeEstrutura\EncadeamentoDeEstrutura\obj\Debug\net5.0\EncadeamentoDeEstrutura.genruntimeconfig.cache

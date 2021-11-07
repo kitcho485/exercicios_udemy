@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AnalizadorNota1Nota2/1.0.0": {
+        "runtime": {
+          "AnalizadorNota1Nota2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnalizadorNota1Nota2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

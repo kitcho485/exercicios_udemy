@@ -1,0 +1,16 @@
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\obj\Debug\net5.0\Condicao_if_else.csproj.AssemblyReference.cache
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\obj\Debug\net5.0\Condicao_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\obj\Debug\net5.0\Condicao_if_else.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\obj\Debug\net5.0\Condicao_if_else.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\obj\Debug\net5.0\Condicao_if_else.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\bin\Debug\net5.0\Condicao_if_else.exe
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\bin\Debug\net5.0\Condicao_if_else.deps.json
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\bin\Debug\net5.0\Condicao_if_else.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\bin\Debug\net5.0\Condicao_if_else.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\bin\Debug\net5.0\Condicao_if_else.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\bin\Debug\net5.0\ref\Condicao_if_else.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\bin\Debug\net5.0\Condicao_if_else.pdb
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\obj\Debug\net5.0\Condicao_if_else.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\obj\Debug\net5.0\ref\Condicao_if_else.dll
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\obj\Debug\net5.0\Condicao_if_else.pdb
+C:\Cursos Udemy\C#\Exercicios\Condição if and else\Condicao_if_else\Condicao_if_else\obj\Debug\net5.0\Condicao_if_else.genruntimeconfig.cache
