@@ -1,0 +1,16 @@
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net5.0\TempoDeJogoComMinutos.exe
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net5.0\TempoDeJogoComMinutos.deps.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net5.0\TempoDeJogoComMinutos.runtimeconfig.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net5.0\TempoDeJogoComMinutos.runtimeconfig.dev.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net5.0\TempoDeJogoComMinutos.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net5.0\ref\TempoDeJogoComMinutos.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net5.0\TempoDeJogoComMinutos.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net5.0\TempoDeJogoComMinutos.csproj.AssemblyReference.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net5.0\TempoDeJogoComMinutos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net5.0\TempoDeJogoComMinutos.AssemblyInfoInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net5.0\TempoDeJogoComMinutos.AssemblyInfo.cs
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net5.0\TempoDeJogoComMinutos.csproj.CoreCompileInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net5.0\TempoDeJogoComMinutos.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net5.0\ref\TempoDeJogoComMinutos.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net5.0\TempoDeJogoComMinutos.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1047 Tempo de Jogo com minutos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net5.0\TempoDeJogoComMinutos.genruntimeconfig.cache

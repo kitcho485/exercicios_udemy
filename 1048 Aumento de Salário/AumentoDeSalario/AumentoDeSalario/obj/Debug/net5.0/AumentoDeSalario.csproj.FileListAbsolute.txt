@@ -1,0 +1,16 @@
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.exe
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.deps.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.runtimeconfig.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.runtimeconfig.dev.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\ref\AumentoDeSalario.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.csproj.AssemblyReference.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.AssemblyInfoInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.AssemblyInfo.cs
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.csproj.CoreCompileInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\ref\AumentoDeSalario.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1048 Aumento de Salário\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.genruntimeconfig.cache
