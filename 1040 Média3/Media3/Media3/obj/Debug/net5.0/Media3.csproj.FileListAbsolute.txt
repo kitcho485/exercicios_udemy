@@ -1,0 +1,16 @@
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\obj\Debug\net5.0\Media3.csproj.AssemblyReference.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\obj\Debug\net5.0\Media3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\obj\Debug\net5.0\Media3.AssemblyInfoInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\obj\Debug\net5.0\Media3.AssemblyInfo.cs
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\obj\Debug\net5.0\Media3.csproj.CoreCompileInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\bin\Debug\net5.0\Media3.exe
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\bin\Debug\net5.0\Media3.deps.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\bin\Debug\net5.0\Media3.runtimeconfig.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\bin\Debug\net5.0\Media3.runtimeconfig.dev.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\bin\Debug\net5.0\Media3.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\bin\Debug\net5.0\ref\Media3.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\bin\Debug\net5.0\Media3.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\obj\Debug\net5.0\Media3.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\obj\Debug\net5.0\ref\Media3.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\obj\Debug\net5.0\Media3.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1040 Média3\Media3\Media3\obj\Debug\net5.0\Media3.genruntimeconfig.cache

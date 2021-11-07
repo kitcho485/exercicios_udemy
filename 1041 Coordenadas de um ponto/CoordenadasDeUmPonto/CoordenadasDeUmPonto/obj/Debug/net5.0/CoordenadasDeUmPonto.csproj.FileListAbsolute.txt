@@ -1,0 +1,16 @@
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.exe
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.deps.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.runtimeconfig.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.runtimeconfig.dev.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net5.0\ref\CoordenadasDeUmPonto.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.AssemblyInfoInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.AssemblyInfo.cs
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.csproj.CoreCompileInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net5.0\ref\CoordenadasDeUmPonto.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.genruntimeconfig.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1041 Coordenadas de um ponto\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.csproj.AssemblyReference.cache

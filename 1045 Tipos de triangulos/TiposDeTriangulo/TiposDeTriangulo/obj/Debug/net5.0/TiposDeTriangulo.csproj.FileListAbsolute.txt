@@ -1,0 +1,16 @@
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\net5.0\TiposDeTriangulo.exe
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\net5.0\TiposDeTriangulo.deps.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\net5.0\TiposDeTriangulo.runtimeconfig.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\net5.0\TiposDeTriangulo.runtimeconfig.dev.json
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\net5.0\TiposDeTriangulo.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\net5.0\ref\TiposDeTriangulo.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\net5.0\TiposDeTriangulo.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\net5.0\TiposDeTriangulo.csproj.AssemblyReference.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\net5.0\TiposDeTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\net5.0\TiposDeTriangulo.AssemblyInfoInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\net5.0\TiposDeTriangulo.AssemblyInfo.cs
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\net5.0\TiposDeTriangulo.csproj.CoreCompileInputs.cache
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\net5.0\TiposDeTriangulo.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\net5.0\ref\TiposDeTriangulo.dll
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\net5.0\TiposDeTriangulo.pdb
+E:\Udemy C#\Cursos Udemy\C#\Exercicios\URI Judge\1045 Tipos de triangulos\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\net5.0\TiposDeTriangulo.genruntimeconfig.cache
