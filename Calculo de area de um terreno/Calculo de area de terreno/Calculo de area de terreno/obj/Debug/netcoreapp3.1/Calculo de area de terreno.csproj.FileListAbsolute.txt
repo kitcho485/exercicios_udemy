@@ -1,0 +1,14 @@
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\bin\Debug\netcoreapp3.1\Calculo de area de terreno.exe
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\bin\Debug\netcoreapp3.1\Calculo de area de terreno.deps.json
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\bin\Debug\netcoreapp3.1\Calculo de area de terreno.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\bin\Debug\netcoreapp3.1\Calculo de area de terreno.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\bin\Debug\netcoreapp3.1\Calculo de area de terreno.dll
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\bin\Debug\netcoreapp3.1\Calculo de area de terreno.pdb
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\obj\Debug\netcoreapp3.1\Calculo de area de terreno.csproj.AssemblyReference.cache
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\obj\Debug\netcoreapp3.1\Calculo de area de terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\obj\Debug\netcoreapp3.1\Calculo de area de terreno.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\obj\Debug\netcoreapp3.1\Calculo de area de terreno.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\obj\Debug\netcoreapp3.1\Calculo de area de terreno.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\obj\Debug\netcoreapp3.1\Calculo de area de terreno.dll
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\obj\Debug\netcoreapp3.1\Calculo de area de terreno.pdb
+C:\Cursos Udemy\C#\Exercicios\Calculo de area de um terreno\Calculo de area de terreno\Calculo de area de terreno\obj\Debug\netcoreapp3.1\Calculo de area de terreno.genruntimeconfig.cache
