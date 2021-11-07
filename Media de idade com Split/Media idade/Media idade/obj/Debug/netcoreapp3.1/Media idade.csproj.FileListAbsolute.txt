@@ -1,0 +1,14 @@
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\obj\Debug\netcoreapp3.1\Media idade.csproj.AssemblyReference.cache
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\obj\Debug\netcoreapp3.1\Media idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\obj\Debug\netcoreapp3.1\Media idade.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\obj\Debug\netcoreapp3.1\Media idade.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\obj\Debug\netcoreapp3.1\Media idade.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\bin\Debug\netcoreapp3.1\Media idade.exe
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\bin\Debug\netcoreapp3.1\Media idade.deps.json
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\bin\Debug\netcoreapp3.1\Media idade.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\bin\Debug\netcoreapp3.1\Media idade.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\bin\Debug\netcoreapp3.1\Media idade.dll
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\bin\Debug\netcoreapp3.1\Media idade.pdb
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\obj\Debug\netcoreapp3.1\Media idade.dll
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\obj\Debug\netcoreapp3.1\Media idade.pdb
+C:\Cursos Udemy\C#\Exercicios\Media de idade com Split\Media idade\Media idade\obj\Debug\netcoreapp3.1\Media idade.genruntimeconfig.cache

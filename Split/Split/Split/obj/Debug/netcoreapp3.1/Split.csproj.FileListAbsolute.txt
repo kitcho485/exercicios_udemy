@@ -1,0 +1,14 @@
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\bin\Debug\netcoreapp3.1\Split.exe
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\bin\Debug\netcoreapp3.1\Split.deps.json
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\bin\Debug\netcoreapp3.1\Split.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\bin\Debug\netcoreapp3.1\Split.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\bin\Debug\netcoreapp3.1\Split.dll
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\bin\Debug\netcoreapp3.1\Split.pdb
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\obj\Debug\netcoreapp3.1\Split.csproj.AssemblyReference.cache
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\obj\Debug\netcoreapp3.1\Split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\obj\Debug\netcoreapp3.1\Split.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\obj\Debug\netcoreapp3.1\Split.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\obj\Debug\netcoreapp3.1\Split.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\obj\Debug\netcoreapp3.1\Split.dll
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\obj\Debug\netcoreapp3.1\Split.pdb
+C:\Cursos Udemy\C#\Exercicios\Split\Split\Split\obj\Debug\netcoreapp3.1\Split.genruntimeconfig.cache
