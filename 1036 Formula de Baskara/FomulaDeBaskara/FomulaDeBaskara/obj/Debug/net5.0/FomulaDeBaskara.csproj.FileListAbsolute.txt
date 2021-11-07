@@ -1,0 +1,16 @@
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\bin\Debug\net5.0\FomulaDeBaskara.exe
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\bin\Debug\net5.0\FomulaDeBaskara.deps.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\bin\Debug\net5.0\FomulaDeBaskara.runtimeconfig.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\bin\Debug\net5.0\FomulaDeBaskara.runtimeconfig.dev.json
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\bin\Debug\net5.0\FomulaDeBaskara.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\bin\Debug\net5.0\ref\FomulaDeBaskara.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\bin\Debug\net5.0\FomulaDeBaskara.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\obj\Debug\net5.0\FomulaDeBaskara.csproj.AssemblyReference.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\obj\Debug\net5.0\FomulaDeBaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\obj\Debug\net5.0\FomulaDeBaskara.AssemblyInfoInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\obj\Debug\net5.0\FomulaDeBaskara.AssemblyInfo.cs
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\obj\Debug\net5.0\FomulaDeBaskara.csproj.CoreCompileInputs.cache
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\obj\Debug\net5.0\FomulaDeBaskara.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\obj\Debug\net5.0\ref\FomulaDeBaskara.dll
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\obj\Debug\net5.0\FomulaDeBaskara.pdb
+C:\Cursos Udemy\C#\Exercicios\URI Judge\1036 Formula de Baskara\FomulaDeBaskara\FomulaDeBaskara\obj\Debug\net5.0\FomulaDeBaskara.genruntimeconfig.cache
